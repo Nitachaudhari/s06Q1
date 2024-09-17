@@ -1,0 +1,36 @@
+
+.outer-container{
+    display: flex;
+    margin: auto;
+}
+
+.inner-container{
+    width: 23%;
+    margin: auto;
+    height: 470px;
+    padding: 10px 0;
+    box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+    border-radius: 15px;
+}
+
+.card-image{
+    width: 100%;
+}
+
+.h-name{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif ;
+
+}
+
+.h-position{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif ; 
+    margin: -15px 0 -2px 0;   
+}
+
+.company-logo{
+    width: 130px;
+    display: block;   
+    margin: auto;
+}
